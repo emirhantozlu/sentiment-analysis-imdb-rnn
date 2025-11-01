@@ -12,7 +12,3 @@ The goal is to classify text data (movie reviews) as **positive** or **negative*
 - Pandas  
 - Matplotlib  
 - Scikit-learn
-
----
-
-Developed by **Emirhan Tozlu**
