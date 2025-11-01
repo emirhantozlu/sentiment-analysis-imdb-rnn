@@ -1,0 +1,16 @@
+# Sanal ortamlar
+kcy_nlp/
+venv/
+env/
+
+# Derleme/önbellek
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter ve loglar
+.ipynb_checkpoints/
+*.log
+
+# IDE ayarları
+.vscode/
